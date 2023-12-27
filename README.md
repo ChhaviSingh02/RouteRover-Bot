@@ -12,11 +12,11 @@ Real-time Navigation: Provides real-time updates on the calculated route, includ
 # Getting Started
 Prerequisites
 Telegram Bot Token:
-
 Obtain a Telegram Bot Token by creating a new bot on Telegram through BotFather.
-Google Maps API Key:
 
+Google Maps API Key:
 Acquire a Google Maps API Key to enable route calculations. Follow the Google Cloud documentation for API key creation.
+
 Installation
 Clone the repository:
 git clone https://github.com/your_username/RouteRover-Bot.git
